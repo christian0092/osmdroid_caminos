@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     private GeoPoint centro;
     private ArrayList<GeoPoint> mi_lista = new ArrayList<GeoPoint>();
     private CacheManager cacheManager;
-
+//soy asdasq
 
     @RequiresApi(api = Build.VERSION_CODES.M)
     @Override
